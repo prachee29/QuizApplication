@@ -2,10 +2,13 @@
 using System.Collections.Generic;
 namespace QuizApp
 {
+    public class CategoryNotFound : Exception
+    {
+        public CategoryNotFound() { }
+        public CategoryNotFound(string message){}
+    }
     public class Program
     {
-        
-
         int Score = 0;
         List<string> Mathquestions = new List<string>
         {
@@ -14,8 +17,6 @@ namespace QuizApp
                "3. What is the maximum out of 2 and 3?"
             
         };
-
-        
         List<string> Mathanswers = new List<string>
         {
             "4",
@@ -71,6 +72,11 @@ namespace QuizApp
             Console.WriteLine("2. GK");
             Console.WriteLine("3. Sci");
             string Cate = Console.ReadLine();
+            if(Cate==null)
+            {
+                throw new CategoryNotFound("Category not found or null entered");
+            }
+            
             if(!Categories.ContainsKey(Cate))
             {
                 Console.WriteLine("Invalid category");
@@ -113,7 +119,10 @@ namespace QuizApp
             Console.WriteLine("3. Sci");
             
             string Cate = Console.ReadLine();
-            
+            if (Cate == null)
+            {
+                throw new CategoryNotFound("Category not found or null entered");
+            }
             Console.WriteLine("----------------------");
             if (!Categories.ContainsKey(Cate))
             {
