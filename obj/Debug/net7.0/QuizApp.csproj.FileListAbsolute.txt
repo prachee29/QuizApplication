@@ -1,0 +1,15 @@
+/Users/prachee/Projects/QuizApp/QuizApp/bin/Debug/net7.0/QuizApp
+/Users/prachee/Projects/QuizApp/QuizApp/bin/Debug/net7.0/QuizApp.deps.json
+/Users/prachee/Projects/QuizApp/QuizApp/bin/Debug/net7.0/QuizApp.runtimeconfig.json
+/Users/prachee/Projects/QuizApp/QuizApp/bin/Debug/net7.0/QuizApp.dll
+/Users/prachee/Projects/QuizApp/QuizApp/bin/Debug/net7.0/QuizApp.pdb
+/Users/prachee/Projects/QuizApp/QuizApp/obj/Debug/net7.0/QuizApp.csproj.AssemblyReference.cache
+/Users/prachee/Projects/QuizApp/QuizApp/obj/Debug/net7.0/QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prachee/Projects/QuizApp/QuizApp/obj/Debug/net7.0/QuizApp.AssemblyInfoInputs.cache
+/Users/prachee/Projects/QuizApp/QuizApp/obj/Debug/net7.0/QuizApp.AssemblyInfo.cs
+/Users/prachee/Projects/QuizApp/QuizApp/obj/Debug/net7.0/QuizApp.csproj.CoreCompileInputs.cache
+/Users/prachee/Projects/QuizApp/QuizApp/obj/Debug/net7.0/QuizApp.dll
+/Users/prachee/Projects/QuizApp/QuizApp/obj/Debug/net7.0/refint/QuizApp.dll
+/Users/prachee/Projects/QuizApp/QuizApp/obj/Debug/net7.0/QuizApp.pdb
+/Users/prachee/Projects/QuizApp/QuizApp/obj/Debug/net7.0/QuizApp.genruntimeconfig.cache
+/Users/prachee/Projects/QuizApp/QuizApp/obj/Debug/net7.0/ref/QuizApp.dll
